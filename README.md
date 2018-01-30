@@ -16,4 +16,11 @@ SwiftTips notes
 * lazy 修饰符和 lazy 方法
 * Reflection 和 Mirror
 
+#### 4.[SwiftTips04](https://github.com/wanqingrongruo/SwiftTips/tree/master/SwiftTips04.playground)
+* 隐式解包 Optional
+* 多重 Optional
+* Optional Map
+* where 和 模式匹配
+* indirect 和 嵌套 enum
+
 
