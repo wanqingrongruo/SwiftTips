@@ -23,4 +23,12 @@ SwiftTips notes
 * where 和 模式匹配
 * indirect 和 嵌套 enum
 
+#### 5. [SwiftTips05](https://github.com/wanqingrongruo/SwiftTips/tree/master/SwiftTips05.playground)
+* Selector
+* 实例方法的动态调用
+* 单例 singleton
+* 条件编译
+* @UIApplicationMain
+* @objc 和 dynamic
+
 
