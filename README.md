@@ -31,4 +31,11 @@ SwiftTips notes
 * @UIApplicationMain
 * @objc 和 dynamic
 
+#### 6. [SwiftTips06](https://github.com/wanqingrongruo/SwiftTips/tree/master/SwiftTips06.playground)
+* Currying 柯里化
+* 将 protocol 的方法声明为 mutating
+* Sequence
+* Tuple
+* @autoclosure and ??
+
 
