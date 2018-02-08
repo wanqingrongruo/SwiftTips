@@ -38,7 +38,7 @@ SwiftTips notes
 * Tuple
 * @autoclosure and ??
 
-#### 7. [SwiftTipss07](https://github.com/wanqingrongruo/SwiftTips/tree/master/SwiftTips07.playground)
+#### 7. [SwiftTips07](https://github.com/wanqingrongruo/SwiftTips/tree/master/SwiftTips07.playground)
 * @escaping
 * Optional chaining
 * 操作符
