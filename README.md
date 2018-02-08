@@ -38,4 +38,11 @@ SwiftTips notes
 * Tuple
 * @autoclosure and ??
 
+#### 7. [SwiftTipss07](https://github.com/wanqingrongruo/SwiftTips/tree/master/SwiftTips07.playground)
+* @escaping
+* Optional chaining
+* 操作符
+* func 的参数修饰
+* 字面量表达
+* 下标
 
