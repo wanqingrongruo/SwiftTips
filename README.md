@@ -46,3 +46,11 @@ SwiftTips notes
 * 字面量表达
 * 下标
 
+#### 8. [SwiftTips08](https://github.com/wanqingrongruo/SwiftTips/tree/master/SwiftTips08.playground)
+* 方法嵌套
+* 命名空间
+* 可变函数参数
+* 初始化方法的顺序
+* Designated, Convenience, Required
+* 初始化返回 nil
+
