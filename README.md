@@ -53,4 +53,6 @@ SwiftTips notes
 * 初始化方法的顺序
 * Designated, Convenience, Required
 * 初始化返回 nil
+#### 9. [SwiftTips09]((https://github.com/wanqingrongruo/SwiftTips/tree/master/SwiftTips09.playground)
+* static and class
 
